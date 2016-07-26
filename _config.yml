@@ -1,0 +1,14 @@
+layout_spectrum: 0.35240545752458274
+typography_spectrum: 0.8762856766115874
+color:
+  brandStrength: 0.4566944264806807
+  lightness: 0.1868590337689966
+  saturation: 0.9206587478984147
+  rhythmicContrast: 0.44837191398255527
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Nameless
